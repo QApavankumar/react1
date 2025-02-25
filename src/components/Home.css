@@ -1,0 +1,10 @@
+
+.custom-carousel {
+    max-height: 450px; /* Adjust height as needed */
+    overflow: hidden;
+}
+
+.custom-carousel .carousel-item img {
+    height: 450px; /* Adjust height as needed */
+    object-fit: cover;
+}
